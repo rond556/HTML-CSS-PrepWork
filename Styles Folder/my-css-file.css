@@ -1,4 +1,19 @@
+h1{
+  text-align: center;
+  color: lime;
+  font-family: arial;
+  text-shadow: 4px 4px 5px black;
+  line-height: 1.5;
+}
+
+h2{
+  color: purple;
+  font-family: courier;
+  text-shadow: 2px 2px 3px rebeccapurple;
+}
+
 span {
-  border: 2px solid black;
+  border: 1px solid black;
+  color: yellow;
   background-color: red;
 }
